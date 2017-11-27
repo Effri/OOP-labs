@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab11
 {
+    //язык запросов к источнику данных
     public class SuperString
     {
         public List<string> listing;
@@ -64,15 +65,16 @@ namespace lab11
             Console.WriteLine("\nSelect only summer's and winter's months");
             foreach (string months in sumWinMounth)
             { Console.WriteLine(months); }
- 
 
-            string[] listing = { "Какое прекрасное утро?",
+            //функциональные средства для минимизации обязательного для
+            //написания объема кода
+            List<string> listing = new List<string>{ "Какое прекрасное утро?",
                 "Эта строка...",
                 "А это точно было в ответах?",
                 "А вот эта строка точно подойдет?",
             "Надо сдать лабораторные и быть спокойным, что всё хорошо!"};
 
-
+            // Использование синтаксиса выражения запроса
             var str_length = from strs in listing where strs.Length == 13 || strs.Length == 34 select strs;
             Console.WriteLine("\nSelect by string length");
             foreach (string strs in str_length)
