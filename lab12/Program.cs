@@ -147,6 +147,7 @@ namespace lab5
             {
                 foreach (MethodInfo method in type.GetMethods())
                 {
+                    //инфа о параметре метода
                     ParameterInfo[] parameters = method.GetParameters();
                     for (int i = 0; i < parameters.Length; i++)
                     {
@@ -171,7 +172,7 @@ namespace lab5
         {
             using (FileStream fstream = new FileStream("fields.txt", FileMode.OpenOrCreate))
             {
-                foreach (FieldInfo field in type.GetFields())
+                foreach (FieldInfo field in type.GetFields()) //возвр все поля данного типа
                 {
                     byte[] array = System.Text.Encoding.Default.GetBytes(field.FieldType + " - " + field.Name + "\n");
                     fstream.Write(array, 0, array.Length);
@@ -182,7 +183,7 @@ namespace lab5
         {
             using (FileStream fstream = new FileStream("properties.txt", FileMode.OpenOrCreate))
             {
-                foreach (PropertyInfo prorertie in type.GetProperties())
+                foreach (PropertyInfo prorertie in type.GetProperties()) //получ все св-ва (массив)
                 {
                     byte[] array = System.Text.Encoding.Default.GetBytes(prorertie.PropertyType + " - " + prorertie.Name + "\n");
                     fstream.Write(array, 0, array.Length);
@@ -193,13 +194,14 @@ namespace lab5
         {
             using (FileStream fstream = new FileStream("interfaces.txt", FileMode.OpenOrCreate))
             {
-                foreach (Type interfaces in type.GetInterfaces())
+                foreach (Type interfaces in type.GetInterfaces()) //реализ интерфейсы
                 {
                     byte[] array = System.Text.Encoding.Default.GetBytes(interfaces.Name + "\n");
                     fstream.Write(array, 0, array.Length);
                 }
             }
         }
+        //reflector.RunTimeMethod("lab12.Exams", "FinalExam");
         //public void RunTimeMethod(string type, string method)
         //{
         //    Assembly asm = Assembly.LoadFrom(@"E:\Учёба\3 сем\ООП\Лабы\lab12\lab12\bin\Debug\lab12.dll");
@@ -223,7 +225,6 @@ namespace lab5
             reflector.Properties();
             reflector.Interfaces();
             reflector.SpecifiedMethods("Object");
-            //reflector.RunTimeMethod("lab12.Exams", "FinalExam");
             Console.ReadLine();
         }
     }
