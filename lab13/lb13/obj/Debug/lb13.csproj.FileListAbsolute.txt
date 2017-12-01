@@ -1,0 +1,7 @@
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\bin\Debug\lb13.exe.config
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\bin\Debug\lb13.exe
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\bin\Debug\lb13.pdb
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\obj\Debug\lb13.csprojResolveAssemblyReference.cache
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\obj\Debug\lb13.csproj.CoreCompileInputs.cache
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\obj\Debug\lb13.exe
+E:\Учёба\3 сем\ООП\Лабы\lb13\lb13\obj\Debug\lb13.pdb

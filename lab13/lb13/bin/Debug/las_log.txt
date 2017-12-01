@@ -1,0 +1,104 @@
+Session's time: 01.12.2017 12:00:41, Count of parent's directories: 6
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, Sub directory's count: 2
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, File's count in this directory: 1
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, 30.11.2017 17:05:27
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, Drive's free space: 20449902592
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, Drive's type: Fixed
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, Drive's title: C:\, Drive's space: 107449675776, Drive's free space: 20449902592, Drive's label: , Drive's title: E:\, Drive's space: 892198711296, Drive's free space: 806685196288, Drive's label: , 
+End session.
+
+
+Session's time: 01.12.2017 12:00:41, E:\”чЄба\3 сем\ќќѕ\Ћабы\lb13
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, Count of parent's directories: 6
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, Sub directory's count: 2
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, File's count in this directory: 1
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, 30.11.2017 17:05:27
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, Drive's free space: 20449554432
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, Drive's type: Fixed
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, Drive's title: C:\, Drive's space: 107449675776, Drive's free space: 20449554432, Drive's label: , Drive's title: E:\, Drive's space: 892198711296, Drive's free space: 806685184000, Drive's label: , 
+End session.
+
+
+Session's time: 01.12.2017 12:00:50, E:\”чЄба\3 сем\ќќѕ\Ћабы\lb13
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, Count of parent's directories: 6
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, Sub directory's count: 2
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, File's count in this directory: 2
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, 30.11.2017 17:05:27
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, Drive's free space: 20449148928
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, Drive's type: Fixed
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, Drive's title: C:\, Drive's space: 107449675776, Drive's free space: 20449148928, Drive's label: , Drive's title: E:\, Drive's space: 892198711296, Drive's free space: 806685192192, Drive's label: , 
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, E:\”чЄба\3 сем\ќќѕ\Ћабы\lb13
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, File's name: las_log.txt, File's extension: .txt, File's length: 1034
+End session.
+
+
+Session's time: 01.12.2017 12:01:13, File's creation date: 01.12.2017 12:01:09
+End session.
+
+

@@ -1,0 +1,40 @@
+Session's time: 01.12.2017 11:52:31, Count of parent's directories: 6
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, Sub directory's count: 2
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, File's count in this directory: 2
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, 30.11.2017 17:05:27
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, Drive's free space: 20445523968
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, Drive's type: Fixed
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, Drive's title: C:\, Drive's space: 107449675776, Drive's free space: 20445523968, Drive's label: , Drive's title: E:\, Drive's space: 892198711296, Drive's free space: 806685192192, Drive's label: , 
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, E:\Ó÷¸áà\3 ñåì\ÎÎÏ\Ëàáû\lb13
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, File's name: las_log.txt, File's extension: .txt, File's length: 817
+End session.
+
+
+Session's time: 01.12.2017 11:52:31, File's creation date: 30.11.2017 17:34:03
+End session.
+
+

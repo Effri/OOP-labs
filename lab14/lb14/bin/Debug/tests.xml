@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<UIOfTests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <container>
+    <Tests>
+      <count>3</count>
+      <title>accept</title>
+    </Tests>
+    <Tests>
+      <count>1</count>
+      <title>exit</title>
+    </Tests>
+  </container>
+</UIOfTests>
